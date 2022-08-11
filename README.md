@@ -1,6 +1,6 @@
-# Marvel Flutter Application
+# marvelapp
 
-A new flutter project with [Marvel Comics API](https://developer.marvel.com/).
+A new Flutter project with [Marvel Comics api](https://developer.marvel.com/).
 
 - An marvelapp contains information about All Marvel Characters and comics.
 - I used [flutter_bloc](https://pub.dev/packages/flutter_bloc) package for State Management and firebase also to fetch Some prepages data.
@@ -38,4 +38,4 @@ A new flutter project with [Marvel Comics API](https://developer.marvel.com/).
 
 
 
-**Download APK File From [Here](https://mega.nz/file/u08FXCLR#eSHqeKn9aYV85K5NZoP59pmAkogW0RS7vGXoDmXnI-Q)**
+**Download _.apk_ file from [Here](https://mega.nz/file/u08FXCLR#eSHqeKn9aYV85K5NZoP59pmAkogW0RS7vGXoDmXnI-Q)**
