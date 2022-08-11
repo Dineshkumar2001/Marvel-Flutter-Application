@@ -38,4 +38,4 @@ A new Flutter project with [Marvel Comics api](https://developer.marvel.com/).
 
 
 
-**Download _.apk_ file from [Here](https://mega.nz/file/u08FXCLR#eSHqeKn9aYV85K5NZoP59pmAkogW0RS7vGXoDmXnI-Q)**
+**Download APK File From [Here](https://mega.nz/file/u08FXCLR#eSHqeKn9aYV85K5NZoP59pmAkogW0RS7vGXoDmXnI-Q)**
