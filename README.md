@@ -1,4 +1,4 @@
-# marvelapp
+# Marvel Flutter Application
 
 A new Flutter project with [Marvel Comics api](https://developer.marvel.com/).
 
